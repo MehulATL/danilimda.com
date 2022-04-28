@@ -11,7 +11,8 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="danilimda.com" />
+        <Header title="jai verai ma!" />
+        <img src="/veraima.jpg" alt="verai ma" className="veraima" />
         <p className="description">
           Dani Limda, Ahmedabad, Gujarat, India.
         </p>
