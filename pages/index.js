@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="welcome to my danilimda.com!" />
+        <Header title="danilimda.com" />
         <p className="description">
           Dani Limda, Ahmedabad, Gujarat, India.
         </p>
