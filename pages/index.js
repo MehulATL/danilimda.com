@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="welcome to my danilimda.com!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          site maintained by mehul patel.
         </p>
       </main>
 
