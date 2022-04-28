@@ -6,14 +6,14 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>danilimda.com</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
         <Header title="welcome to my danilimda.com!" />
         <p className="description">
-          site maintained by mehul patel.
+          Dani Limda, Ahmedabad, Gujarat, India.
         </p>
       </main>
 
